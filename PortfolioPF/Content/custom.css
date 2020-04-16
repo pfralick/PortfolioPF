@@ -1,0 +1,32 @@
+﻿/*div.modal-content {
+    margin: auto;
+    width: 50%;
+}*/
+
+.team-member img{
+    width: 425px;
+    height: 325px;
+}
+
+/* fizzbuzz styling */
+table, th, td {
+    border: 2px solid black;
+    margin: 1px;
+    padding: 5px;
+}
+
+.fizz {
+    color: blue;
+}
+
+.buzz {
+    color: green;
+}
+
+.fizzbuzz {
+    color: purple;
+}
+
+.btn-wide {
+    width: 100%;
+}
