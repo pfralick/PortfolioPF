@@ -80,22 +80,30 @@
     <Content Include="Assets\05-thumbnail.jpg" />
     <Content Include="Assets\06-full.jpg" />
     <Content Include="Assets\06-thumbnail.jpg" />
-    <Content Include="Assets\1.jpg" />
-    <Content Include="Assets\2.jpg" />
-    <Content Include="Assets\3.jpg" />
     <Content Include="Assets\4.jpg" />
+    <Content Include="Assets\codebackground.png" />
     <Content Include="Assets\creative-market.jpg" />
     <Content Include="Assets\CSlogo.png" />
     <Content Include="Assets\CSSlogo.png" />
     <Content Include="Assets\designmodo.jpg" />
     <Content Include="Assets\envato.jpg" />
+    <Content Include="Assets\FizzBuzz2.png" />
     <Content Include="Assets\header-bg.jpg" />
     <Content Include="Assets\HTML5logo.png" />
+    <Content Include="Assets\jeremy-bishop-QHZn3-0bbEM-unsplash.jpg" />
     <Content Include="Assets\JSlogo.png" />
     <Content Include="Assets\keyboard.jpeg" />
+    <Content Include="Assets\laptop.png" />
+    <Content Include="Assets\lighthouse.png" />
     <Content Include="Assets\map-image.png" />
     <Content Include="Assets\favicon.png" />
+    <Content Include="Assets\Mtn.png" />
+    <Content Include="Assets\palindrome.png" />
+    <Content Include="Assets\soaf3.png" />
+    <Content Include="Assets\SunsetHills.png" />
+    <Content Include="Assets\SunsetHills3.png" />
     <Content Include="Assets\themeforest.jpg" />
+    <Content Include="Assets\waterfall.png" />
     <Content Include="Content\agency.css" />
     <Content Include="Content\agency.min.css" />
     <Content Include="Content\all.min.css" />
@@ -162,6 +170,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\Peter F Resume March 2020.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\PeterFralickPortfolio - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">

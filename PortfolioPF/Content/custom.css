@@ -30,3 +30,7 @@ table, th, td {
 .btn-wide {
     width: 100%;
 }
+
+#resumeLink {
+    color: white;
+}
